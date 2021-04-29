@@ -5,7 +5,7 @@ $theme-styles: (
 	classic: (
 		fonts: (
 			serif: ('Lora', 'Lucida Bright', 'Lucidabright', 'Lucida Serif', Lucida, Georgia, serif),
-			sans-serif: ('Open Sans', Lato, sans-serif)
+			sans-serif: ('Inter','Open Sans', Lato, sans-serif)
 		),
 		colors: (
 			blue:  #7076f0,
@@ -27,7 +27,7 @@ $theme-styles: (
 	minimal: (
 		fonts: (
 			serif: ('IBM Plex Serif', Georgia, Times, 'Times New Roman', serif),
-			sans-serif: ('IBM Plex Sans','Helvetica Neue', Helvetica, 'Roboto', sans-serif)
+			sans-serif: ('Inter', 'IBM Plex Sans','Helvetica Neue', Helvetica, 'Roboto', sans-serif)
 		),
 		colors: (
 			blue:   #0084ff,
