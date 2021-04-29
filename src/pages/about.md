@@ -92,17 +92,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: This is a Call to Action
-    actions:
-      - label: Contact Us
-        url: /general-enquiries
-        style: primary
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
 seo:
   title: About
   description: This is the about us page
