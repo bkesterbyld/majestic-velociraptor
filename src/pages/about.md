@@ -9,10 +9,10 @@ sections:
   - type: features_section
     features:
       - title: Real Estate Expertise
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          In addition to building Mortgage.com, most members of our team have
+          either renovated or built their own homes. Our CEO's family is has
+          been active for two decades doing rehabs in the Sacramento market. 
         image: images/20161201_162410_001 (2).jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
