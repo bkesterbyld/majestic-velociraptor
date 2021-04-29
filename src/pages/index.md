@@ -28,10 +28,23 @@ sections:
     features:
       - title: Digital Construction Draws
         subtitle: Sitewire streamlines your back office while delighting borrowers
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Sitewire is a mobile and web solution that allows borrowers to submit
+          draw requests and have your team review and approve them centrally.
+          Lenders using Sitwire have reduced operational costs 50% while turning
+          draws around in 48 hours or less. Additionally, it delivers:
+
+
+          *   Wire and funding automation
+
+
+          *   Collaborative borrower document management
+
+
+          *   Workflows with servicers, note buyers and warehouse lenders
+
+
+          *   Borrower and neighborhood-level rehab analytics
         actions:
           - label: Learn More
             url: /style-guide
