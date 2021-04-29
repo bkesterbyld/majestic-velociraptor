@@ -66,11 +66,6 @@
                 "label": "About",
                 "url": "/about",
                 "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
             }
         ],
         "has_secondary_nav": false,
