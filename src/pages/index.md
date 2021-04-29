@@ -19,7 +19,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     background_image: images/pexels-rene-asmussen-3990359.jpg
     background_image_opacity: 20
   - type: features_section
