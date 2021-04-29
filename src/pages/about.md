@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Real Estate Expertise
-        subtitle: The team the that built Mortgage.com
+        subtitle: We built Mortgage.com
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
