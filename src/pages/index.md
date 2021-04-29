@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Streamline your lending operations
     subtitle: >-
-      Residential construction finance technologies that optimize the connection
-      between lenders and borrowers
+      Residential construction finance technologies that optimize the lender and
+      borrower relationship
     actions: []
     image_alt: Hero section placeholder image
     media_position: left
