@@ -27,7 +27,7 @@ sections:
     title: Solutions
     features:
       - title: Digital Construction Draws
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Sitewire streamlines your back office while delighting borrowers
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
