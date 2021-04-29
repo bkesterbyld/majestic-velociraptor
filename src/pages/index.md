@@ -57,10 +57,31 @@ sections:
         media_position: right
         media_width: fifty
       - title: Workflow and Analytic Solutions
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Byld's team has worked with several private lenders on a variety of
+          workflow and analytics applications. We have deep experience building
+          massive, leading edge systems with our team members having been the
+          architects of Mortgage.com and Autodesk's construction management
+          tools. We build solutions off a proprietary machine learning platform
+          that integrates with multiple real estate data feeds, saving on
+          overall project cost to get you a truly unique solution. Example
+          solutions include:
+
+
+          *   Instant opportunity identification of new listings and with
+          buy/hold scenario modeling
+
+
+          *   Borrower document management
+
+
+          *   Investor and partner portals
+
+
+          *   Borrower CRM and marketing automation
+
+
+          *   Borrower service workflow modules
         actions:
           - label: Learn More
             url: /style-guide
