@@ -93,7 +93,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    has_border: false
+    has_border: true
   - type: features_section
     features:
       - title: >-
