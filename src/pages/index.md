@@ -117,7 +117,7 @@ sections:
       broke, don't fix it" and we never advocate technology where not needed. We
       can look at your whole stack from website to origination to borrower
       service and recommend easy, inexpensive improvements with off-the-shelf
-      tools that can help you. 
+      tools where possible. 
     actions:
       - label: Button
         url: /pricing
