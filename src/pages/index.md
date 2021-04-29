@@ -120,7 +120,7 @@ sections:
       tools where possible. If you'd like we can serve as a fractional CIO to
       help with both day-to-day needs as well as discrete projects.
     actions:
-      - label: Button
+      - label: Learn More
         url: /pricing
         style: primary
     actions_position: bottom
