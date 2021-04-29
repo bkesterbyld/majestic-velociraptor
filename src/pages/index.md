@@ -24,7 +24,7 @@ sections:
     background_image_opacity: 20
     background_image_position: center center
   - type: features_section
-    title: Features Section
+    title: Solutions
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
