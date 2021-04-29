@@ -96,7 +96,7 @@ sections:
     title: This is a Call to Action
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
-      - label: Learn More
+      - label: Contact Us
         url: /general-enquiries
         style: primary
     align: center
