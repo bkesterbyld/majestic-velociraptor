@@ -117,7 +117,8 @@ sections:
       broke, don't fix it" and we never advocate technology where not needed. We
       can look at your whole stack from website to origination to borrower
       service and recommend easy, inexpensive improvements with off-the-shelf
-      tools where possible. 
+      tools where possible. If you'd like we can serve as a fractional CIO to
+      help with both day-to-day needs as well as discrete projects.
     actions:
       - label: Button
         url: /pricing
