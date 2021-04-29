@@ -22,6 +22,7 @@ sections:
     background_color: none
     background_image: images/pexels-rene-asmussen-3990359.jpg
     background_image_opacity: 20
+    background_image_position: center center
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
