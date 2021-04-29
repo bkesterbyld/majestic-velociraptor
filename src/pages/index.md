@@ -25,7 +25,6 @@ sections:
     background_image_position: center center
   - type: features_section
     title: Solutions
-    subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
