@@ -39,7 +39,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/draw2.jpg
+        image: images/constructiondraw2.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
