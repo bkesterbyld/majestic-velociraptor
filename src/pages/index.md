@@ -92,7 +92,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: secondary
     has_border: true
   - type: features_section
     features:
