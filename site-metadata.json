@@ -39,7 +39,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Get Started",
+                "label": "Contact",
                 "url": "/pricing",
                 "style": "primary"
             }
