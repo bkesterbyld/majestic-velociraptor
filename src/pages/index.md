@@ -101,7 +101,7 @@ sections:
       - title: >-
           “Byld has dramatically improved our operations, we're scaling faster
           with fewer heads.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'MD, Leading West Coast Private Lender'
         image: images/byldtechclient.png
         image_alt: Brandon Guidelines
         media_position: right
