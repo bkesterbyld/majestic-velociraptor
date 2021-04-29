@@ -18,10 +18,11 @@ sections:
         media_position: right
         media_width: fifty
       - title: Construction Tech
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          The other half of our team that didn't work in PropTech hails from
+          Autodesk, the #1 maker of construction technology architecture
+          including products such as Revit, Plangrid, BuildingConnected. Our CEO
+          also sits on the Board of Concrete Sensors, a subsidiary of Hilti.  
         image: images/20170619_133727.jpg
         image_alt: People in a conference room
         media_position: left
