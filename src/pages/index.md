@@ -101,7 +101,7 @@ sections:
     features:
       - title: >-
           “Byld's solutions have dramatically improved our operations, we're
-          able to scale up and down as the market changes without affecting
+          able to adjust to market changes and opportunity without affecting
           headcount.”
         subtitle: 'MD, Leading West Coast Private Lender'
         image: images/byldtechclient.png
