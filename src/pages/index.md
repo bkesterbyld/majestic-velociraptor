@@ -7,7 +7,7 @@ sections:
     content: |
       Byld optimizes the intersection of private lenders and their borrowers
     actions:
-      - label: Try Free
+      - label: Digital Construction Draws
         url: /pricing
         style: primary
       - label: Learn More
