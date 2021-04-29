@@ -72,7 +72,10 @@ sections:
           scenario modeling
 
 
-          *   Borrower document management
+          *   Risk modeling and decision support
+
+
+          *   Borrower document management and deal room solutions
 
 
           *   Investor and partner portals
@@ -81,7 +84,7 @@ sections:
           *   Borrower CRM and marketing automation
 
 
-          *   Borrower service workflow modules
+          *   Collaborative asset management with stakeholders
         actions:
           - label: Learn More
             url: /general-enquiries
