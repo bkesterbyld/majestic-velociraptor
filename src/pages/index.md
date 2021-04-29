@@ -56,7 +56,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Workflow and Analytic Solutions
+      - title: 'Workflow, Portal and Analytic Solutions'
         content: >
           Byld's team has worked with several private lenders on a variety of
           workflow and analytics applications. We have deep experience building
