@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Streamline your lending operations
-    subtitle: Construction Finance Technologies
+    subtitle: Residential Construction Finance Technologies
     content: |
       Byld optimizes the intersection of private lenders and their borrowers
     actions:
