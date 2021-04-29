@@ -96,6 +96,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+    has_border: true
   - type: features_section
     features:
       - title: >-
