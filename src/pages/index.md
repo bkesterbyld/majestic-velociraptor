@@ -7,8 +7,7 @@ sections:
     content: |
       Byld optimizes the intersection of private lenders and their borrowers
     actions:
-      - label: Cont
-        url: /pricing
+      - url: /pricing
         style: primary
     image_alt: Hero section placeholder image
     media_position: left
