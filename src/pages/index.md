@@ -6,9 +6,7 @@ sections:
     subtitle: Residential Construction Finance Technologies
     content: |
       Byld optimizes the intersection of private lenders and their borrowers
-    actions:
-      - url: /pricing
-        style: primary
+    actions: []
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
