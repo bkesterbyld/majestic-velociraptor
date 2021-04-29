@@ -51,13 +51,7 @@ sections:
 
           Oakland CA 94607
         content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
       - title: Some City
