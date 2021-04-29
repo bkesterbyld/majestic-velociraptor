@@ -46,10 +46,10 @@ sections:
         actions_align: left
         actions_width: auto
       - title: Oakland
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: |
+          [1](mailto:email@example.com)111 Broadway
+
+          Oakland CA 94607
         content_align: left
         actions:
           - label: Get Directions
