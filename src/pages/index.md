@@ -100,8 +100,9 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Byld has dramatically improved our operations, we're scaling faster
-          with fewer heads.”
+          “Byld's solutions have dramatically improved our operations, we're
+          able to scale up and down as the market changes without affecting
+          headcount.”
         subtitle: 'MD, Leading West Coast Private Lender'
         image: images/byldtechclient.png
         image_alt: Brandon Guidelines
