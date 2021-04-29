@@ -111,10 +111,13 @@ sections:
     background_color: primary
   - type: cta_section
     title: Virtual CIO for a Day
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      We love helping private lenders and would be happy to provide a free
+      review of your current tech enablement—our philosophy is "if it isn't
+      broke, don't fix it" and we never advocate technology where not needed. We
+      can look at your whole stack from website to origination to borrower
+      service and recommend easy, inexpensive improvements with off-the-shelf
+      tools that can help you. 
     actions:
       - label: Button
         url: /pricing
