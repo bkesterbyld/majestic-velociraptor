@@ -120,7 +120,7 @@ sections:
       tools where possible. If you'd like we can serve as a fractional CTO to
       help with both day-to-day needs as well as discrete projects.
     actions:
-      - label: Learn More
+      - label: Learn About Free CTO for a Day
         url: /pricing
         style: primary
     actions_position: bottom
