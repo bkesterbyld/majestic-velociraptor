@@ -12,7 +12,7 @@ sections:
     media_width: fifty
     align: center
     padding_top: large
-    padding_bottom: small
+    padding_bottom: medium
     background_color: primary
     background_image: images/pexels-rene-asmussen-3990359.jpg
     background_image_opacity: 20
