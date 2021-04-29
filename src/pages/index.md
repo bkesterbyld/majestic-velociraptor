@@ -68,8 +68,8 @@ sections:
           solutions include:
 
 
-          *   Instant opportunity identification of new listings and with
-          buy/hold scenario modeling
+          *   Instant opportunity identification of new listings with buy/hold
+          scenario modeling
 
 
           *   Borrower document management
