@@ -10,9 +10,6 @@ sections:
       - label: Digital Construction Draws
         url: /pricing
         style: primary
-      - label: Fractional CTO
-        url: /features
-        style: secondary
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
