@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Construction Finance Technologies
+    title: Streamline your lending operations
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
