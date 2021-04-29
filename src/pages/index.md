@@ -26,7 +26,7 @@ sections:
   - type: features_section
     title: Solutions
     features:
-      - title: The Big Title For the Feature
+      - title: Digital Construction Draws
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
