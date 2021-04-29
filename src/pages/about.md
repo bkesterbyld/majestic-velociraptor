@@ -97,7 +97,7 @@ sections:
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
-        url: /pricing
+        url: /general-enquiries
         style: primary
     align: center
     padding_top: medium
