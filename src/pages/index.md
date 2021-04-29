@@ -84,7 +84,7 @@ sections:
           *   Borrower service workflow modules
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /general-enquiries
             style: primary
             has_icon: true
             icon: arrow-right
