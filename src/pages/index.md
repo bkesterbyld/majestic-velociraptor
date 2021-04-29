@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Streamline your lending operations
     subtitle: Construction Finance Technologies
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Byld optimizes the intersection of private lenders and their borrowers
     actions:
       - label: Try Free
         url: /pricing
