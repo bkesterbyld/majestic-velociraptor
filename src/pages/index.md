@@ -100,9 +100,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Byld's solutions have dramatically improved our operations, we're
-          able to adjust to market changes and opportunity without affecting
-          headcount.”
+          “Byld's solutions have allowed us to remain lean while capturing new
+          opportunities and delighting our borrowers and partners.”
         subtitle: 'MD, Leading West Coast Private Lender'
         image: images/byldtechclient.png
         image_alt: Brandon Guidelines
