@@ -12,6 +12,6 @@ sections:
         style: primary
     align: center
     padding_bottom: large
-    background_color: none
+    background_color: primary
 template: advanced
 ---
