@@ -25,17 +25,17 @@ sections:
         content: >
           Sitewire is a mobile and web solution that allows borrowers to submit
           draw requests and have your team review and approve them centrally.
-          Lenders using Sitwire have reduced operational costs 50% while turning
-          draws around in 48 hours or less. Additionally, it delivers:
+          Lenders using Sitewire have reduced operational costs 50% while
+          turning draws around in 48 hours or less. Additionally, it delivers:
 
 
           *   Wire and funding automation
 
 
-          *   Collaborative borrower document management
+          *   Borrower document management
 
 
-          *   Workflows with servicers, note buyers and warehouse lenders
+          *   Collaboration with servicers, note buyers and warehouse lenders
 
 
           *   Borrower and neighborhood-level rehab analytics
