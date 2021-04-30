@@ -50,16 +50,15 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: 'Workflow, Portal and Analytic Solutions'
+      - title: 'Workflow, Analytic and Machine Learning Solutions'
         content: >
           Byld's team has worked with several private lenders on a variety of
           workflow and analytics applications. We have deep experience building
-          massive, leading edge systems with our team members having been the
-          architects of Mortgage.com and Autodesk's construction management
-          tools. We build solutions off a proprietary machine learning platform
-          that integrates with multiple real estate data feeds, saving on
-          overall project cost to get you a truly unique solution. Example
-          solutions include:
+          leading edge systems that can scale from simple needs to handling
+          millions of properties, transactions and users. Byld utilizes a
+          proprietary data platform that with multiple pre-built real estate
+          components and data feeds, saving on overall project cost to get you a
+          truly unique solution. Example solutions include:
 
 
           *   Instant opportunity identification of new listings with buy/hold
@@ -114,8 +113,7 @@ sections:
       broke, don't fix it" and we never advocate technology where not needed. We
       can look at your whole stack from website to origination to borrower
       service and recommend easy, inexpensive improvements with off-the-shelf
-      products. If you'd like we can serve as a fractional CTO to help with both
-      day-to-day needs as well as discrete projects.
+      products.
     actions:
       - label: Learn about free CTO for a day
         url: /pricing
