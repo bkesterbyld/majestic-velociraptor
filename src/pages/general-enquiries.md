@@ -33,7 +33,7 @@ sections:
         is_required: true
       - input_type: textarea
         name: message
-        label: Message
+        label: Any questions or details you'd like to share?
         default_value: Your message
       - input_type: checkbox
         name: consent
