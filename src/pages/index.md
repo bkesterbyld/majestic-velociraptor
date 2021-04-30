@@ -46,7 +46,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/constructiondraw2.png
+        image: images/sitewire.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
