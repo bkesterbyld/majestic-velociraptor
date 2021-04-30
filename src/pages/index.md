@@ -14,7 +14,7 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: primary
-    background_image: images/pexels-rene-asmussen-3990359.jpg
+    background_image: images/privatelender2.jpg
     background_image_opacity: 20
     background_image_position: center center
   - type: features_section
@@ -25,17 +25,17 @@ sections:
         content: >
           Sitewire is a mobile and web solution that allows borrowers to submit
           draw requests and have your team review and approve them centrally.
-          Lenders using Sitwire have reduced operational costs 50% while turning
-          draws around in 48 hours or less. Additionally, it delivers:
+          Lenders using Sitewire have reduced operational costs 50% while
+          turning draws around in 48 hours or less. Additionally, it delivers:
 
 
           *   Wire and funding automation
 
 
-          *   Collaborative borrower document management
+          *   Borrower document management
 
 
-          *   Workflows with servicers, note buyers and warehouse lenders
+          *   Collaboration with servicers, note buyers and warehouse lenders
 
 
           *   Borrower and neighborhood-level rehab analytics
@@ -46,7 +46,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/constructiondraw2.png
+        image: images/sitewire3.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
@@ -106,7 +106,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
-    title: Virtual CTO
+    title: Try our Virtual CTO Service
     content: >
       We love helping private lenders and would be happy to provide a free
       review of your current tech enablement—our philosophy is "if it isn't
