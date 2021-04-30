@@ -114,8 +114,7 @@ sections:
       broke, don't fix it" and we never advocate technology where not needed. We
       can look at your whole stack from website to origination to borrower
       service and recommend easy, inexpensive improvements with off-the-shelf
-      products. If you'd like we can serve as a fractional CTO to help with both
-      day-to-day needs as well as discrete projects.
+      products.
     actions:
       - label: Learn about free CTO for a day
         url: /pricing
