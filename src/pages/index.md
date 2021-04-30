@@ -14,7 +14,7 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: primary
-    background_image: images/privatelender2.jpg
+    background_image: images/IMG_20191212_124409.jpg
     background_image_opacity: 30
     background_image_position: center center
   - type: features_section
