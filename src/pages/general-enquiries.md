@@ -2,25 +2,17 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: This is the Hero
-    subtitle: The optional subtitle
+    title: Learn More
+    subtitle: about our construction finance technologies
     align: center
     padding_top: medium
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ### Billing
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-
+    content: |
       ### Privacy
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      We never share your information with third parties. Period.
     content_align: left
     form_position: right
     form_width: fifty
@@ -39,17 +31,9 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
       - input_type: textarea
-        name: message
-        label: Message
+        name: Questions or details
+        label: Any questions or details you'd like to share?
         default_value: Your message
       - input_type: checkbox
         name: consent
@@ -57,7 +41,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-    submit_label: Send Message
+    submit_label: Submit
     align_vert: top
     padding_top: medium
     padding_bottom: medium
