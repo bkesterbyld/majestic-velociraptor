@@ -22,7 +22,8 @@ sections:
           The other half of our team that didn't work in PropTech hails from
           Autodesk, the #1 maker of construction technology architecture
           including products such as Revit, Plangrid and BuildingConnected. Our
-          CEO also sits on the Board of Concrete Sensors, a subsidiary of Hilti.
+          CEO also serves on the Board of ConcreteSensors, a subsidiary of
+          Hilti.
         image: images/20170619_133727.jpg
         image_alt: People in a conference room
         media_position: left
