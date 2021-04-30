@@ -32,7 +32,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: textarea
-        name: message
+        name: Questions or details
         label: Any questions or details you'd like to share?
         default_value: Your message
       - input_type: checkbox
