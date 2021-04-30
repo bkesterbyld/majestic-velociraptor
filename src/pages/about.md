@@ -10,9 +10,10 @@ sections:
     features:
       - title: Real Estate Expertise
         content: >
-          In addition to building Mortgage.com, most members of our team have
-          either renovated or built their own homes. Our CEO's family is has
-          been active for two decades doing rehabs in the Sacramento market. 
+          In addition to building Mortgage.com, most members of our team are
+          active in real estate investment. Our CEO has been active for two
+          decades doing rehabs in the Sacramento market and operates several
+          multifamily assets in Southern California. 
         image: images/20161201_162410_001 (2).jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
