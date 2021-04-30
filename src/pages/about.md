@@ -10,9 +10,10 @@ sections:
     features:
       - title: Real Estate Expertise
         content: >
-          In addition to building Mortgage.com, most members of our team have
-          either renovated or built their own homes. Our CEO's family is has
-          been active for two decades doing rehabs in the Sacramento market. 
+          In addition to building Mortgage.com, most members of our team are
+          active in real estate investment. Our CEO has been active for two
+          decades doing rehabs in the Sacramento market and operates several
+          multifamily assets in Southern California. 
         image: images/20161201_162410_001 (2).jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
@@ -21,8 +22,9 @@ sections:
         content: >
           The other half of our team that didn't work in PropTech hails from
           Autodesk, the #1 maker of construction technology architecture
-          including products such as Revit, Plangrid, BuildingConnected. Our CEO
-          also sits on the Board of Concrete Sensors, a subsidiary of Hilti.  
+          including products such as Revit, Plangrid and BuildingConnected. Our
+          CEO also serves on the Board of ConcreteSensors, a subsidiary of
+          Hilti.
         image: images/20170619_133727.jpg
         image_alt: People in a conference room
         media_position: left
