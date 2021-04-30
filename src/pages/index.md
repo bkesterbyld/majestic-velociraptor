@@ -14,7 +14,7 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: primary
-    background_image: images/pexels-rene-asmussen-3990359.jpg
+    background_image: images/privatelender.jpg
     background_image_opacity: 20
     background_image_position: center center
   - type: features_section
