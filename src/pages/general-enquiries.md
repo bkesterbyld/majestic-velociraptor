@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Learn More
-    subtitle: The optional subtitle
+    subtitle: about our construction finance technologies
     align: center
     padding_top: medium
     padding_bottom: medium
