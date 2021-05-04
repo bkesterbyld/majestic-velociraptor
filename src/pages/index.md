@@ -134,7 +134,7 @@ seo:
       value: Byld Technologies
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Byld Technologies
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
