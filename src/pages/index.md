@@ -125,7 +125,7 @@ sections:
     background_color: secondary
 seo:
   title: Byld
-  description: The preview of the DIY theme
+  description: Byld Technologies for construction finance
   extra:
     - name: 'og:type'
       value: website
