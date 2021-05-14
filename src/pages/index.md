@@ -54,15 +54,15 @@ sections:
         content: >
           Byld's team has worked with several private lenders on a variety of
           workflow and analytics applications. We have deep experience building
-          leading edge systems that can scale from simple needs to handling
-          millions of properties, transactions and users. Byld utilizes a
-          proprietary data platform that with multiple pre-built real estate
-          components and data feeds, saving on overall project cost to get you a
-          truly unique solution. Example solutions include:
+          world class systems that scale from simple needs to handling millions
+          of properties, transactions and users. Byld utilizes a proprietary
+          data platform with multiple pre-built real estate components and data
+          feeds, saving on overall project cost to get you a truly unique
+          solution. Example solutions include:
 
 
-          *   Instant opportunity identification of new listings with buy/hold
-          scenario modeling
+          *   Instant opportunity identification of new listings with best use
+          and hold/rent scenario modeling
 
 
           *   Risk modeling and decision support
@@ -74,7 +74,7 @@ sections:
           *   Investor and partner portals
 
 
-          *   Borrower CRM and marketing automation
+          *   Borrower lead generation, marketing automation and CRM
 
 
           *   Collaborative asset management with stakeholders
