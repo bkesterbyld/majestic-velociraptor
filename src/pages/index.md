@@ -106,7 +106,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
-    title: Try our Virtual CTO Service
+    title: Virtual CTO Service
     content: >
       We love helping private lenders and would be happy to provide a free
       review of your current tech enablement—our philosophy is "if it isn't
