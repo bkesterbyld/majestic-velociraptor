@@ -14,8 +14,8 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: primary
-    background_image: images/IMG_20191212_124409 (1).jpg
-    background_image_opacity: 30
+    background_image: images/gradientbackground.png
+    background_image_opacity: 100
     background_image_position: center center
   - type: features_section
     title: Solutions
@@ -122,7 +122,9 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: none
+    background_image: images/beige-primrose.jpg
+    background_image_opacity: 10
 seo:
   title: Byld
   description: Byld Technologies for construction finance
