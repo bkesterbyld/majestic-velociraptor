@@ -124,6 +124,7 @@ sections:
     padding_bottom: large
     background_color: secondary
     background_image: images/beige-primrose.jpg
+    background_image_opacity: 30
 seo:
   title: Byld
   description: Byld Technologies for construction finance
