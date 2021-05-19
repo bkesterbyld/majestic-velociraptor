@@ -15,7 +15,7 @@ sections:
     padding_bottom: medium
     background_color: primary
     background_image: images/gradientbackground.png
-    background_image_opacity: 30
+    background_image_opacity: 0
     background_image_position: center center
   - type: features_section
     title: Solutions
