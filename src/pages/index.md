@@ -122,7 +122,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
     background_image: images/beige-primrose.jpg
     background_image_opacity: 30
 seo:
