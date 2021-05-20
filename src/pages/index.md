@@ -43,16 +43,14 @@ sections:
       - title: 'Analytic, Workflow and Machine Learning Solutions'
         content: >
           Byld's team has worked with several private lenders on a variety of
-          workflow and analytics applications. We have deep experience building
-          world class systems that scale from simple needs to handling millions
-          of properties, transactions and users. Byld utilizes a proprietary
-          data platform with multiple pre-built real estate components and data
+          workflow and analytics applications. Byld utilizes a proprietary data
+          platform with multiple pre-built real estate components and data
           feeds, saving on overall project cost to get you a truly unique
           solution. Example solutions include:
 
 
           *   Instant opportunity identification of new listings with best use
-          and hold/rent scenario modeling
+          and hold/rent scenario and horizon modeling
 
 
           *   Risk modeling and decision support
