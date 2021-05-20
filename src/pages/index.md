@@ -40,13 +40,7 @@ sections:
 
 
           *   Borrower and neighborhood-level rehab analytics
-        actions:
-          - label: Visit Sitewire
-            url: 'http://www.sitewire.co'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/sitewire3.png
         image_alt: Feature 1 placeholder image
         media_position: right
