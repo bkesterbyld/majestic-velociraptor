@@ -8,7 +8,7 @@ sections:
       borrower relationship
     actions: []
     image_alt: Hero section placeholder image
-    media_position: top
+    media_position: bottom
     media_width: sixty
     align: center
     padding_top: large
