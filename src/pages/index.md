@@ -22,7 +22,7 @@ sections:
     title: Solutions
     features:
       - title: Draw Data Management
-        subtitle: Sitewire streamlines your back office while delighting borrowers
+        subtitle: Centralize your fragmented draw data
         content: >
           Sitewire is a solution that organizes and manages construction draw
           information online. It's launching later this year to:
