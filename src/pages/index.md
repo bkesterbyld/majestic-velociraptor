@@ -14,7 +14,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/gradientbackground-boxes2.png
+    background_image: images/gradientbackground.png
     background_image_opacity: 100
     background_image_position: center center
     background_image_size: cover
