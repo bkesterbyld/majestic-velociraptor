@@ -17,6 +17,7 @@ sections:
     background_image: images/gradientbackground-boxes.png
     background_image_opacity: 100
     background_image_position: center center
+    background_image_size: contain
   - type: features_section
     title: Solutions
     features:
