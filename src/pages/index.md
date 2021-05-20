@@ -21,7 +21,7 @@ sections:
   - type: features_section
     title: Solutions
     features:
-      - title: Digital Construction Draws
+      - title: Draw Data Management
         subtitle: Sitewire streamlines your back office while delighting borrowers
         content: >
           Sitewire is a mobile and web solution that allows borrowers to submit
