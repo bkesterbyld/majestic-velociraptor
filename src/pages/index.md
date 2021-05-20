@@ -24,22 +24,17 @@ sections:
       - title: Draw Data Management
         subtitle: Sitewire streamlines your back office while delighting borrowers
         content: >
-          Sitewire is a mobile and web solution that allows borrowers to submit
-          draw requests and have your team review and approve them centrally.
-          Lenders using Sitewire have reduced operational costs 50% while
-          turning draws around in 48 hours or less. Additionally, it delivers:
+          Sitewire is a solution that organizes and manages construction draw
+          information online. It's launching later this year to:
 
 
-          *   Wire and funding automation
+          *   Centralize all your draw spreadsheets and photos
 
 
-          *   Borrower document management
+          *   Connect data with key stakeholders, investors and capital partners
 
 
-          *   Collaboration with servicers, note buyers and warehouse lenders
-
-
-          *   Borrower and neighborhood-level rehab analytics
+          *   Create a data analytics foundation for borrower and risk scoring
         actions: []
         image: images/sitewire3.png
         image_alt: Feature 1 placeholder image
