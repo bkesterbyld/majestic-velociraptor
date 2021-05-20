@@ -8,15 +8,16 @@ sections:
       borrower relationship
     actions: []
     image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
+    media_position: bottom
+    media_width: sixty
     align: center
     padding_top: large
-    padding_bottom: medium
+    padding_bottom: large
     background_color: primary
-    background_image: images/gradientbackground.png
+    background_image: images/gradientbackground-boxes5.png
     background_image_opacity: 100
     background_image_position: center center
+    background_image_size: cover
   - type: features_section
     title: Solutions
     features:
