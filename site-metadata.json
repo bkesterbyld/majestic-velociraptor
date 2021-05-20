@@ -61,17 +61,6 @@
                 "label": "About",
                 "url": "/about",
                 "style": "link"
-            },
-            {
-                "label": "Sitewire Digital Draws",
-                "url": "http://sitewire.co",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-right",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_secondary_nav": false,
