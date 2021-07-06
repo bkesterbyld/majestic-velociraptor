@@ -7,7 +7,9 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Sitewire Buyer API - Property & Budget Data
+## Sitewire Buyer API
+
+Property & Budget Data
 
 Stability: production; for discussion and in development for Colchis
 
@@ -16,8 +18,6 @@ Access property data. Note that we have other fields you may want to key from or
 For example we have start and end date for the loan, input by the lender, in another API. We also have borrower company name, contact name, etc in a separate API.
 
 ### Attributes
-
-
 
 | Name | Type | Description | Example |
 | ------- | ------- | ------- | ------- |
@@ -45,13 +45,7 @@ For example we have start and end date for the loan, input by the lender, in ano
 | **total_released_cents** | *integer* | Total released across all completed draws. | 2400000 |
 | **total_requested_cents** | *integer* | Total requested across all draws. | 3000000 |
 
-
-
-
-
 ### Properties Info
-
-
 
 Info for existing property.
 
@@ -138,13 +132,7 @@ Info for existing property.
       ]
     }
 
-
-
-
-
 ### Properties List
-
-
 
 List existing properties.
 
@@ -221,4 +209,3 @@ List existing properties.
         }
       }
     ]
-
