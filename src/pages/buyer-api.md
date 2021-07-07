@@ -9,7 +9,7 @@ template: page
 ---
 ## Sitewire Buyer API
 
-#### Property & Budget Data
+#### Property Data
 
 Stability: production; for discussion and in development for Colchis
 
