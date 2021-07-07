@@ -19,14 +19,13 @@ List of Property Data API fields below. Note that we have other fields in separa
 
 *   Start and end dates for the loan (entered by Lender)
 
-*   Draw Status - *Inspecting* (Sitewire Inspector), *Pending* (Lender Approval), *Loan Buyer* (Buyer Approval), *Approved* (draw to be funded), *Complete* (draw was funded)
-
 ### Attributes
 
 
 
 | Name | Type | Description | Example |
 | ------- | ------- | ------- | ------- |
+| **aasm_state** | *string* | **one of:**"drafting" or "inspecting" or "pending" or "pending_buyer" or "approved" or "completed" completed indicates funds were wired, all other states are pre-wire| "pending" |
 | **budget:id** | *integer* | unique identifier of the budget | 1234 |
 | **csz** | *string* | The city, state and zip. | "New York, NY 10007" |
 | **draws** | *array* | List of draws for this property | \[{"id":1234,"name":"Draw 1","borrower_view_status":"Wire initiated","aasm_state":"pending","allow_overage":true,"total_budget_cents":600000,"total_available_cents":400000,"total_requested_cents":200000,"total_released_cents":160000,"total_approved_cents":200000,"overage_cents":1000,"percentage_requested":15.0,"percentage_released":15.0,"lender_budget":80,"has_inspection_image":true,"requests":\[{"id":1234,"name":"Windows","budgeted_cents":200000,"available_cents":100000,"requested_cents":200000,"approved_cents":200000,"released_cents":160000,"total_requested_cents":200000,"total_approved_cents":200000,"total_released_cents":160000,"allow_overage":true,"required_image_count":3,"required_video_count":1,"street":"123 Main St","csz":"New York, NY 10007"}]}] |
@@ -93,7 +92,6 @@ Info for existing property.
         {
           "id": 1234,
           "name": "Draw 1",
-          "borrower_view_status": "Wire initiated",
           "aasm_state": "pending",
           "allow_overage": true,
           "total_budget_cents": 600000,
@@ -105,7 +103,6 @@ Info for existing property.
           "percentage_requested": 15.0,
           "percentage_released": 15.0,
           "lender_budget": 80,
-          "has_inspection_image": true,
           "requests": [
             {
               "id": 1234,
@@ -118,9 +115,6 @@ Info for existing property.
               "total_requested_cents": 200000,
               "total_approved_cents": 200000,
               "total_released_cents": 160000,
-              "allow_overage": true,
-              "required_image_count": 3,
-              "required_video_count": 1,
               "street": "123 Main St",
               "csz": "New York, NY 10007"
             }
