@@ -7,7 +7,9 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Sitewire Property API (Basis for a Buyer API)
+## Sitewire Property API
+
+#### (Basis for a Buyer API)
 
 Stability: production; for discussion and in development for Colchis
 
@@ -20,8 +22,6 @@ List of Property Data API fields below. Note that we have other fields in separa
 *   Draw Status - Inspecting (Sitewire Inspector), Pending (Lender Approval), Buyer (Loan Buyer Approval), Approved (draw to be funded), Complete (draw was funded)
 
 ### Attributes
-
-
 
 | Name | Type | Description | Example |
 | ------- | ------- | ------- | ------- |
@@ -49,13 +49,7 @@ List of Property Data API fields below. Note that we have other fields in separa
 | **total_released_cents** | *integer* | Total released across all completed draws. | 2400000 |
 | **total_requested_cents** | *integer* | Total requested across all draws. | 3000000 |
 
-
-
-
-
 ### Properties Info
-
-
 
 Info for existing property.
 
@@ -142,13 +136,7 @@ Info for existing property.
       ]
     }
 
-
-
-
-
 ### Properties List
-
-
 
 List existing properties.
 
@@ -225,4 +213,3 @@ List existing properties.
         }
       }
     ]
-
