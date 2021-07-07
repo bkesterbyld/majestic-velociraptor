@@ -7,15 +7,19 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Sitewire Buyer API
+## Sitewire Property API
 
-#### Property Data
+#### (Basis for a Buyer API)
 
-Stability: production; for discussion and in development for Colchis
+Stability: production; for discussion and publication for Colchis.
 
-Access property data. Note that we have other fields you may want to key from or use to increment/decrement in other APIs.
+List of Property Data API fields below. Note that we have other fields in separate APIs you might want to access such as:
 
-For example we have start and end date for the loan, input by the lender, in another API. We also have borrower company name, contact name, etc in a separate API.
+*   Borrower Name (Company Name)
+
+*   Percentage completion of both property and individual items (based on approval amounts/budget)
+
+*   Draw Status - Inspecting (Sitewire Inspector), Pending (Lender Approval), Buyer (Loan Buyer Approval), Approved (draw to be funded), Complete (draw was funded)
 
 ### Attributes
 
