@@ -11,7 +11,7 @@ template: page
 
 #### (Basis for a Buyer API)
 
-Stability: production; for discussion and in development for Colchis
+Stability: production; for discussion and publication for Colchis.
 
 List of Property Data API fields below. Note that we have other fields in separate APIs you might want to access such as:
 
