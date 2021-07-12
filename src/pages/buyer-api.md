@@ -23,7 +23,7 @@ List of Property Data API fields below. Note that we have other fields in separa
 
 | Name | Type | Description | Example |
 | ------- | ------- | ------- | ------- |
-| **aasm_state** | *string* | **one of:**"drafting" or "inspecting" or "pending" or "pending_buyer" or "approved" or "completed" completed indicates funds were wired, all other states are pre-wire| "pending" |
+| **borrower_id** | *integer* | unique identifier of the borrower | 1234 |
 | **budget:id** | *integer* | unique identifier of the budget | 1234 |
 | **csz** | *string* | The city, state and zip. | "New York, NY 10007" |
 | **draws** | *array* | List of draws for this property | \[{"id":1234,"name":"Draw 1","borrower_view_status":"Wire initiated","aasm_state":"pending","allow_overage":true,"total_budget_cents":600000,"total_available_cents":400000,"total_requested_cents":200000,"total_released_cents":160000,"total_approved_cents":200000,"overage_cents":1000,"percentage_requested":15.0,"percentage_released":15.0,"lender_budget":80,"has_inspection_image":true,"requests":\[{"id":1234,"name":"Windows","budgeted_cents":200000,"available_cents":100000,"requested_cents":200000,"approved_cents":200000,"released_cents":160000,"total_requested_cents":200000,"total_approved_cents":200000,"total_released_cents":160000,"allow_overage":true,"required_image_count":3,"required_video_count":1,"street":"123 Main St","csz":"New York, NY 10007"}]}] |
@@ -38,14 +38,16 @@ List of Property Data API fields below. Note that we have other fields in separa
 | **job_items/updated_at** | *date-time* | when job item was updated | "2015-01-01T12:00:00Z" |
 | **lender_budget** | *nullable integer* | Percentage of budget the lender pays. When null, it means this lender always pays 100%. | 80 |
 | **lender_email** | *string* | Lender primary email | "name@example.com" |
+| **lender_id** | *integer* | unique identifier of the lender | 1234 |
 | **loan_number** | *string* | Loan number | "201-555" |
 | **lockbox_code** | *string* | Code for lockbox on property | "12345" |
-| **overage_cents** | *integer* | Amount over the budget (if lender allows overage) | 100000 |
+| **overage_cents** | *integer* | Amount over the budget, when lender allows budgets to go over | 100000 |
 | **street** | *string* | The street address. | "101 Main St" |
+| **summary_url** | *string* | Tokenized URL for direct sign in to web app to show the borrower property summary report. | "https://app.sitewire.co/borrower/properties/summary?token=eyJfcmF" |
 | **total_approved_cents** | *integer* | Total approved across all approved draws. | 3000000 |
 | **total_available_cents** | *integer* | Total approved across all approved draws. | 3000000 |
 | **total_budget_cents** | *integer* | Total budget for the property. | 6000000 |
-| **total_released_cents** | *integer* | Total released across all completed draws. Released amounts are the budget \* lender_budget.| 2400000 |
+| **total_released_cents** | *integer* | Total released across all completed draws. | 2400000 |
 | **total_requested_cents** | *integer* | Total requested across all draws. | 3000000 |
 
 ### Properties Info
@@ -66,6 +68,8 @@ Info for existing property.
 
     {
       "id": 1234,
+      "lender_id": 1234,
+      "borrower_id": 1234,
       "loan_number": "201-555",
       "lockbox_code": "12345",
       "full_address": "101 Main St #2, New York, NY 10007",
@@ -84,6 +88,7 @@ Info for existing property.
         {
           "id": 1234,
           "name": "Draw 1",
+          "borrower_view_status": "Wire initiated",
           "aasm_state": "pending",
           "allow_overage": true,
           "total_budget_cents": 600000,
@@ -95,6 +100,7 @@ Info for existing property.
           "percentage_requested": 15.0,
           "percentage_released": 15.0,
           "lender_budget": 80,
+          "has_inspection_image": true,
           "requests": [
             {
               "id": 1234,
@@ -107,6 +113,9 @@ Info for existing property.
               "total_requested_cents": 200000,
               "total_approved_cents": 200000,
               "total_released_cents": 160000,
+              "allow_overage": true,
+              "required_image_count": 3,
+              "required_video_count": 1,
               "street": "123 Main St",
               "csz": "New York, NY 10007"
             }
@@ -149,6 +158,8 @@ List existing properties.
     [
       {
         "id": 1234,
+        "lender_id": 1234,
+        "borrower_id": 1234,
         "loan_number": "201-555",
         "lockbox_code": "12345",
         "full_address": "101 Main St #2, New York, NY 10007",
