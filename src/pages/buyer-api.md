@@ -15,6 +15,8 @@ List of Property Data API fields below. Note that we have other fields in separa
 
 *   Borrower Name (Company Name)
 
+*   Lender Name (Company Name)
+
 *   Percentage completion of both property and individual items (based on approval amounts/budget)
 
 *   Start and end dates for the loan (entered by Lender)
