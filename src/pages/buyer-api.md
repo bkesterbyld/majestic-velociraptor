@@ -40,8 +40,6 @@ List of Property Data API fields below. Note that we have other fields in separa
 | **job_items/updated_at** | *date-time* | when job item was updated | "2015-01-01T12:00:00Z" |
 | **lender_budget** | *nullable integer* | Percentage of budget the lender pays. When null, it means this lender always pays 100%. | 80 |
 | **lender_email** | *string* | Lender primary email | "name@example.com" |
-
-| **lender_id** | *integer* | unique identifier of the lender | 1234 |
 | **loan_number** | *string* | Loan number | "201-555" |
 | **lockbox_code** | *string* | Code for lockbox on property | "12345" |
 | **overage_cents** | *integer* | Amount over the budget (if lender allows overage) | 100000 |
