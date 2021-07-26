@@ -42,9 +42,9 @@ sections:
         media_width: fifty
       - title: 'Analytic, Workflow and Machine Learning Solutions'
         content: >
-          Byld's team are experts in big data technologies and ML-based
-          analytics, and can help you scope and execute a solution that delivers
-          competitive advantage to your firm. Byld utilizes a proprietary data
+          We are experts in big data technologies and ML-based analytics, and
+          can help you conceive and deliver a solution that creates a
+          competitive advantage for your firm. Byld utilizes a proprietary data
           platform with multiple pre-built real estate components and data
           feeds, saving on overall project cost to get you a truly unique
           solution. Example solutions include:
