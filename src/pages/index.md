@@ -38,7 +38,7 @@ sections:
           *   Create a data-driven foundation for budgets and borrower risk
           scoring
         actions:
-          - label: lorem-ipsum
+          - label: Visit Sitewire
             url: 'http://sitewire.co'
             style: secondary
             has_icon: false
