@@ -37,7 +37,7 @@ sections:
           *   Create a data analytics foundation for borrower and risk scoring
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: 'http://sitewire.co'
             style: secondary
             has_icon: false
             icon: arrow-left
