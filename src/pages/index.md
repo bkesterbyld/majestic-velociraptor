@@ -21,21 +21,31 @@ sections:
   - type: features_section
     title: Solutions
     features:
-      - title: Draw Data Management
-        subtitle: Centralize your fragmented draw data
+      - title: Sitewire Digital Draws
+        subtitle: Process draws and fund borrowers in 24-48 hours
         content: >
-          Sitewire is a solution that organizes and manages construction draw
-          information online. It's launching later this year to:
+          Sitewire digitizes your entire draw process from field inspection to
+          wire disbursement.
 
 
-          *   Centralize all your draw spreadsheets and photos
+          *   Deliver the highest level of borrower service and create enduring
+          loyalty
 
 
-          *   Connect data with key stakeholders, investors and capital partners
+          *   Optimize your back office team for value-added tasks
 
 
-          *   Create a data analytics foundation for borrower and risk scoring
-        actions: []
+          *   Create a data-driven foundation for budgets and borrower risk
+          scoring
+        actions:
+          - label: Visit Sitewire
+            url: 'http://sitewire.co'
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         image: images/sitewire3.png
         image_alt: Feature 1 placeholder image
         media_position: right
