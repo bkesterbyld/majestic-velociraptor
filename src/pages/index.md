@@ -35,7 +35,15 @@ sections:
 
 
           *   Create a data analytics foundation for borrower and risk scoring
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         image: images/sitewire3.png
         image_alt: Feature 1 placeholder image
         media_position: right
