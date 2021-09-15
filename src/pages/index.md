@@ -22,7 +22,7 @@ sections:
     title: Solutions
     features:
       - title: Sitewire Digital Draws
-        subtitle: Centralize your fragmented draw data
+        subtitle: Process draws and fund borrowers in 24-48 hours
         content: >
           Sitewire is a solution that organizes and manages construction draw
           information online. It's launching later this year to:
