@@ -32,7 +32,8 @@ sections:
           loyalty
 
 
-          *   Optimize your back office team for value-added tasks
+          *   Do away with thousands of emails and spreadsheets and optimize
+          your back office team to higher value tasks
 
 
           *   Data analytics enable better go-forward budgets and borrower risk
