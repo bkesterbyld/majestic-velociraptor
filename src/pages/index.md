@@ -35,7 +35,7 @@ sections:
           *   Optimize your back office team for value-added tasks
 
 
-          *   Create a data-driven foundation for budgets and borrower risk
+          *   Data analytics enable better go-forward budgets and borrower risk
           scoring
         actions:
           - label: Visit Sitewire
