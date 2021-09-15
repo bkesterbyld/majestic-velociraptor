@@ -21,7 +21,7 @@ sections:
   - type: features_section
     title: Solutions
     features:
-      - title: Draw Data Management
+      - title: Sitewire Digital Draws
         subtitle: Centralize your fragmented draw data
         content: >
           Sitewire is a solution that organizes and manages construction draw
