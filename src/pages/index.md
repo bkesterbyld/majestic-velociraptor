@@ -24,17 +24,19 @@ sections:
       - title: Sitewire Digital Draws
         subtitle: Process draws and fund borrowers in 24-48 hours
         content: >
-          Sitewire is a solution that organizes and manages construction draw
-          information online. It's launching later this year to:
+          Sitewire digitizes your entire draw process from field inspection to
+          wire disbursement.
 
 
-          *   Centralize all your draw spreadsheets and photos
+          *   Deliver the highest level of borrower service and create enduring
+          loyalty
 
 
-          *   Connect data with key stakeholders, investors and capital partners
+          *   Optimize your back office team for value-added tasks
 
 
-          *   Create a data analytics foundation for borrower and risk scoring
+          *   Create a data-driven foundation for budgets and borrower risk
+          scoring
         actions:
           - label: lorem-ipsum
             url: 'http://sitewire.co'
