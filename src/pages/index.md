@@ -105,26 +105,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-  - type: cta_section
-    title: Virtual CTO Service
-    content: >
-      We love helping private lenders and would be happy to provide a free
-      review of your current tech enablement—our philosophy is "if it isn't
-      broke, don't fix it" and we never advocate technology where not needed. We
-      can look at your whole stack from website to origination to borrower
-      service and recommend easy, inexpensive improvements with off-the-shelf
-      products.
-    actions:
-      - label: Learn about free CTO for a day
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: none
-    background_image: images/beige-primrose.jpg
-    background_image_opacity: 10
 seo:
   title: Byld
   description: Byld Technologies for construction finance
